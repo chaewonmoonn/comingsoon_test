@@ -1,3 +1,4 @@
+#타이틀 가져오는 코드
 import urllib.request
 
 page = urllib.request.urlopen("https://www.netflix.com/login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fbrowse")
